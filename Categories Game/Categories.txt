@@ -1,0 +1,15 @@
+Countries
+Name
+Place
+Animal
+Thing
+Food
+Movie Name
+Restaurant
+Color
+Fruits and Vegetables
+Things you dont like
+Cities
+Junk Food Brands
+Any Word
+Historical Figure
